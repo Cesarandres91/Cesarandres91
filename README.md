@@ -14,6 +14,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesarandres91&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarandres91&layout=compact&theme=radical)
 
+## 🌐 Encuéntrame en la web
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [Twitter](https://twitter.com/tuusuario)
+- [Blog](https://tublog.com)
+
 <!--
 **Cesarandres91/Cesarandres91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
