@@ -6,9 +6,9 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreschile/)
 
 ## 🛠 Skills and Technologies
-- **Languages:** SQL, Python, R, JS
-- **Tools:** Git, Jupyter, Googlecolab, Looker Studio, Tableau, Power BI
-- **Concepts:** Data Analysis, Data Quality, Data Governance
+- **Languages:** SQL, Python, R and JS.
+- **Tools:** Git, Jupyter, Googlecolab, Looker Studio, Tableau, Power BI y Rstudio.
+- **Concepts:** Data Analysis, Data Quality, Data Governance, Data Science.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesarandres91&show_icons=true&theme=radical)
