@@ -10,20 +10,6 @@
 - **Tools:** Git, Jupyter, Googlecolab, Looker Studio, Tableau, Power BI
 - **Concepts:** Data Analysis, Data Quality, Data Governance
 
-## 💼 Work Experience
-
-<p align="left">
-  <a href="https://www.company1.com/">
-    <img src="https://via.placeholder.com/150x50.png?text=Company+1" alt="Company 1" height="50">
-  </a>
-  <a href="https://www.company2.com/">
-    <img src="https://via.placeholder.com/150x50.png?text=Company+2" alt="Company 2" height="50">
-  </a>
-  <a href="https://www.company3.com/">
-    <img src="https://via.placeholder.com/150x50.png?text=Company+3" alt="Company 3" height="50">
-  </a>
-</p>
-
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesarandres91&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarandres91&layout=compact&theme=radical)
