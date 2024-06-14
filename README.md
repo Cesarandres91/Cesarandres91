@@ -16,8 +16,6 @@
 
 ## 🌐 Encuéntrame en la web
 - [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Twitter](https://twitter.com/tuusuario)
-- [Blog](https://tublog.com)
 
 <!--
 **Cesarandres91/Cesarandres91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
